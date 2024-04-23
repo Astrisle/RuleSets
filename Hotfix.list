@@ -1,7 +1,3 @@
-# > Steam login
+# > Steam
 PROCESS-NAME,steam.exe
 PROCESS-NAME,steam_osx
-# > Tesla China
-DOMAIN-SUFFIX,tesla.cn
-# > Xiaomi EV
-DOMAIN-SUFFIX,xiaomiev.com
