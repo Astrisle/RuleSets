@@ -1,3 +1,4 @@
 # > Steam
 PROCESS-NAME,steam.exe
 PROCESS-NAME,steam_osx
+DOMAIN-SUFFIX,nexconvert.com
