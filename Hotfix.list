@@ -3,3 +3,6 @@ PROCESS-NAME,steam.exe
 PROCESS-NAME,steam_osx
 # > HF Mirror
 DOMAIN-SUFFIX,hf-mirror.com
+# > Subscription Services
+DOMAIN,huaikhwang.central-world.org
+DOMAIN,cdn.metaglide.org
