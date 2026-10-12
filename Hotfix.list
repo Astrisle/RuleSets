@@ -5,7 +5,6 @@ PROCESS-NAME,steam_osx
 DOMAIN-SUFFIX,hf-mirror.com
 # > Subscription Services
 DOMAIN,huaikhwang.central-world.org
-DOMAIN,cdn.metaglide.org
 DOMAIN,resourcemap.lol
 # > Media Library Services
 DOMAIN-SUFFIX,nb-media.xyz
